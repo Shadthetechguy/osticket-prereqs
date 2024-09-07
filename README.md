@@ -54,7 +54,7 @@ and of course resource groups as well.
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-</p> Step 3: Down, Install, and Open the Web Platform Installer
+</p> Step 3: Download, Install, and Open the Web Platform Installer
 
 <br /> OsTicket Installation Files
 -Download Web Platform Installer> select Download Anyway> at the top right, select Open file
